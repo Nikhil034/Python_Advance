@@ -8,7 +8,7 @@ bt1=Button(window,text="Click here", width=20, height=5, bg="red")
 bt1.place(x=50,y=40)
 today = date.today()
 bt2=Button(window,text=today, width=20, height=5, bg="yellow")
-bt2.place(x=190,y=60)
+bt2.place(x=10,y=60)
 
 
 

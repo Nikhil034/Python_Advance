@@ -18,6 +18,6 @@ win.maxsize(600,600)
 #set min and max size
 
 #win.attributes('-alpha',0.5)
-win.attributes('-topmost',1)
+win.attributes('-topmost',0.5)
 #for transperent effect to window
 win.mainloop()
